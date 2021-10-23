@@ -2,16 +2,11 @@
 ### Nice to meet you.👋
 
 
-![Photolab-695688712](https://user-images.githubusercontent.com/84512369/138569848-b127ffde-d01e-4eb7-937b-29ad91b369c4.gif)
+![Frame 4 (1)](https://user-images.githubusercontent.com/84512369/138570518-5a91012b-f454-4930-bc3e-6e1dd8be8ce9.png)
 
-**byeaimebye/byeaimebye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Bodega Monsape
 - 🌱 I’m currently learning React
 - 💬 Ask me about CSS VANILLA JS
-- 📫 How to reach me: <a href= ""
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: <a href= "https://www.linkedin.com/notifications/">Linkedin</a>
+- ⚡ Fun fact: Fresh air lover, although I prefer my computer.
