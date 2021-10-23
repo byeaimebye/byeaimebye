@@ -1,7 +1,3 @@
-### Hi, my name is Aimé,
-### Nice to meet you.👋
-
-
 ![Frame 4 (1)](https://user-images.githubusercontent.com/84512369/138570518-5a91012b-f454-4930-bc3e-6e1dd8be8ce9.png)
 
 
