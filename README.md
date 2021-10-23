@@ -2,7 +2,7 @@
 ### Nice to meet you.👋
 
 
-![Photolab-695688712](https://user-images.githubusercontent.com/84512369/138569848-b127ffde-d01e-4eb7-937b-29ad91b369c4.gif {width=40px height=400px})
+![Photolab-695688712](https://user-images.githubusercontent.com/84512369/138569848-b127ffde-d01e-4eb7-937b-29ad91b369c4.gif)
 
 **byeaimebye/byeaimebye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
