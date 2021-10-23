@@ -1,6 +1,6 @@
 ### Hi, my name is Aimé,
 ### Nice to meet you.👋
-![Frame 5 (1)](https://user-images.githubusercontent.com/84512369/138569889-3b57779b-1125-4dc9-a78d-a20a2418ff99.png)
+
 
 ![Photolab-695688712](https://user-images.githubusercontent.com/84512369/138569848-b127ffde-d01e-4eb7-937b-29ad91b369c4.gif)
 
