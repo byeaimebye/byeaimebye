@@ -7,5 +7,5 @@
 - 🔭 I’m currently working on Bodega Monsape
 - 🌱 I’m currently learning React
 - 💬 Ask me about CSS VANILLA JS
-- 📫 How to reach me: <a href= "https://www.linkedin.com/notifications/">Linkedin</a>
+- 📫 How to reach me: <a href= "https://www.linkedin.com/in/aime-pelozo/">Linkedin</a> 
 - ⚡ Fun fact: Fresh air lover, although I prefer my computer.
