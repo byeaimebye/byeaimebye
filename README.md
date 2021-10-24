@@ -1,5 +1,5 @@
+![Digitalizacion](https://user-images.githubusercontent.com/84512369/138598433-4fa103c4-64da-42f6-9b1e-1dbf06e7ef40.gif)
 
-![Frame 5 (5)](https://user-images.githubusercontent.com/84512369/138597669-c96413c4-5e34-4d24-99a5-802520bf4afd.png)
 
 
 - 🔭 I’m currently working on Bodega Monsape
