@@ -1,4 +1,5 @@
-![Digitalizacion](https://user-images.githubusercontent.com/84512369/138598433-4fa103c4-64da-42f6-9b1e-1dbf06e7ef40.gif)
+![Frame 5 (5)](https://user-images.githubusercontent.com/84512369/138598501-6dbfaf02-0835-44b0-b3fd-b65791e746ea.png)
+
 
 
 
