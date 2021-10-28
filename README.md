@@ -1,4 +1,4 @@
-![Frame 5 (5)](https://user-images.githubusercontent.com/84512369/138598501-6dbfaf02-0835-44b0-b3fd-b65791e746ea.png)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F771D0&center=true&vCenter=true&lines=Welcome+to+Aimy's+github;Explore+my+skills)](https://git.io/typing-svg)
 
