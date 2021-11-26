@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F771D0&center=true&vCenter=true&lines=Welcome+to+Aimy's+github;Explore+my+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F771D0&center=true&vCenter=true&lines=Welcome+to+Aimy's+github;)](https://git.io/typing-svg)
 
 
 
