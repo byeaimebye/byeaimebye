@@ -2,8 +2,8 @@
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Frontend Developer, my name is Aimé not Aimee. I am passionate about design and code 🐍 ☁️ </samp></h4>
 
 <p align="center">
-  
-  ![18720-baby-yoda](https://user-images.githubusercontent.com/84512369/144433548-89f725c0-58d3-4f78-ae5d-03684b9caeca.gif)
+
+  ![18720-baby-yoda](https://giphy.com/gifs/vr-virtual-reality-goggle-jbmE5tQRb3iqaK59TM)
 
 </p>
 
