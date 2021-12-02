@@ -17,4 +17,6 @@
 Check out my repos ⬇️  
   </samp>
 </p>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=byeaimebye.byeaimebye)
