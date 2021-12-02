@@ -17,5 +17,4 @@
 Check out my repos ⬇️  
   </samp>
 </p>
-
-![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
