@@ -1,9 +1,12 @@
 
 
+# 🍕 bdougie's Top 8 Page🍕
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F771D0&center=true&vCenter=true&lines=Welcome+to+Aimy's+github;)](https://git.io/typing-svg)
+## bdougie has <!-- follower-counter -->1411<!-- /follower-counter --> followers
+## bdougie has <!-- follower-counter -->1417<!-- /follower-counter --> followers
 
-![11121435_0_adobespark width:"50px"](https://user-images.githubusercontent.com/84512369/144429591-601ecd27-ca10-45d5-8177-ad7c64f02850.png)
+[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+--- | --- | --- | ---
 
 
 
