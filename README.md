@@ -1,3 +1,3 @@
 
 
-![Hey there, Aimé. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+![Hey there, Aimé. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/byeaimebye/byeaimebye/raw/master/bio.gif)
