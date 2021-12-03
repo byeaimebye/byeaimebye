@@ -1,5 +1,5 @@
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Frontend Developer, my name is Aimé not Aimee. I am passionate about design and code 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Frontend Developer, my name is Aimé not Aimee. I am passionate about design and code. </samp></h4>
 
 
 <p align="center">
